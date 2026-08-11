@@ -1,0 +1,62 @@
+<html>
+<head>
+    <title>Format Text</title>
+    <style type="text/css">
+        p {color : green; letter-spacing: O.5cm}
+        h4 {letter-spacing:-2px}
+    </style>
+</head>
+<body>
+    <p>Pengaturan Spasi Pada Paragraph</p>
+    <h4>Header 4</h4>
+</body>
+</html>
+
+<html>
+<head>
+    <title>Format Text</title>
+    <style type="text/css">
+        h1 {text-align: center}
+        h2 {text-align: left}
+        h3 {text-align: right}
+    </style>
+</head>
+<body>
+    <h1>Header 1, Di tengah</h1>
+    <h2>Header 2, Di kiri</h2>
+    <h3>Header 3 ,Di kanan</h3>
+</body>
+</html>
+
+<htmI>
+<head>
+    <title>Format Text</title>
+    <style type="text/css">
+        em {text-decoration : overline}
+        h2 {text-decoration: blink}
+        h3 {text-decoration: underiine}
+        a {text-decoration: none}
+    </style>
+</head>
+<body>
+    <em>Bentuk Overline</em>
+    <h2>Header 2, Bentuk Linethrough</h2>
+    <h3>Header 3,Bentuk Underline</h3>
+    <p><a href="http://https://smkn3kendal.sch.id/">Penggunaan Dalam Link,Nilai
+    NONE pada CSS</a></p>
+</body>
+</html>
+
+<html>
+<head>
+    <title>Format Text</title>
+    <style type="text/css">
+        p.besar {text-transform: uppercase}
+        p.kecil {text-transform: lowercase}
+    </style>
+</head>
+<body>
+    <p class="besar">Pengubahan kedalam huruf Besar</p>
+    <p class="kecil">PENGUBAHAN KEDALAM HURUF KECIL</p>
+</body>
+</html>

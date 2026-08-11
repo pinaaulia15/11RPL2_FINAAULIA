@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS</title>
+</head>
+<body style="color:white; background: green;font-family: arial;">
+    <h1>SMK N 3 KENDAL</h1>
+    <p>PPLG atau Pengembangan Perangkat Lunak dan Gim adalah sebuah jurusan 
+    di SMK (Sekolah Menengah Kejuruan).Jurusan ini mempelajari dan
+    mendalami cara-cara mengembangkan perangkat lunak.Mulai dari 
+    pembuatan,pemeliharaan,manajemen kualitas,dan menejemen organisasi 
+    pengembangan perangkat lunak.</p>  
+</body>  
+</html>
