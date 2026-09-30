@@ -5,11 +5,12 @@
         <script type="text/javascript" src="assets/js/jquery.js"></script>
         <script type="text/javascript" src="assets/js/bootstrap.js"></script>
     </head>
-    <body style="background: #22385fff;">
+    <body style="background: #5489ecff;">
         <br><br>
         <center>
             <h2>SISTEM INFORMASI LAUNDRY</h2>
         </center>
+
         <br><br>
 
         <div class="container">
@@ -20,7 +21,7 @@ if (isset($_GET['pesan'])) {
     if ($_GET['pesan'] == 'gagal') {
         echo "<div class='alert alert-danger'> Login gagal! Username atau Password Salah!</div>";
     }elseif ($_GET['pesan'] == 'logout') {
-        echo "<div class='alert alert-info>Anda telah berhasil Logout!</div>";
+        echo "<div class='alert alert-info'>Anda telah berhasil Logout!</div>";
     }elseif ($_GET['pesan'] == 'logout') {
         echo "<div class='alert alert-danger>Anda harus login untuk mengakses halaman admin!</div>";
     }
