@@ -116,7 +116,8 @@
             while($d=mysqli_fetch_array($data)){
             ?>
             <tr>
-                <td><?php echo $no++; ?></td>
+                <td>
+                <?php echo $no++; ?></td>
                 <td>INVOICE-<?php echo $d['transaksi_id']; ?></td>
                 <td><?php echo $d['transaksi_tgl']; ?></td>
                 <td><?php echo $d['pelanggan_nama']; ?></td>
